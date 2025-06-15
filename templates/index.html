@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="main-content">
+    <div class="hero-section">
+        <div class="hero-content">
+            <h1 class="display-5 mb-4 hero-title">Explore Asia with Ease</h1>
+            <div class="row">
+                <div class="col-12">
+                    <p class="lead">
+                        Planning a trip to Asia? Our site helps you discover must-visit destinations and hidden gems based on your travel style and budget. Search for places, compare similar locations, and find recommendations tailored to your preferences—making your trip planning smooth and stress-free.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="hero-image-wrapper">
+            <div class="hero-image-container" data-parallax="scroll">
+                <img src="https://images.unsplash.com/photo-1504457047772-27faf1c00561?fm=jpg&q=60&w=3000" alt="Scenic view of Asian architecture and landscape" class="hero-image">
+            </div>
+        </div>
+    </div>
+
+    <div class="popular-places">
+        <h2 class="mb-4 section-title">Featured Destinations</h2>
+        <div class="row">
+            {% for place in popular_places %}
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <a href="{{ url_for('view', id=place.id) }}">
+                        <img src="{{ place.image }}" class="card-img-top" alt="{{ place.alt_text }}">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">{{ place.name }}</h5>
+                        <p class="card-location">{{ place.location }}</p>
+                        <div class="rating-bar-container">
+                            <div class="rating-bar-progress" data-rating="{{ place.rating }}"></div>
+                        </div>
+                        <p class="rating-text">Rating: {{ place.rating }}/10</p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %} 

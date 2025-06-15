@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="main-content">
+    <div class="search-results">
+        <h2 class="mb-4 section-title">Search Results for "{{ query }}"</h2>
+        
+        {% if count > 0 %}
+            <p class="results-count mb-4">Found {{ count }} result{% if count != 1 %}s{% endif %}</p>
+            <div class="row">
+                {% for place in results %}
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <a href="{{ url_for('view', id=place.id) }}">
+                            <img src="{{ place.image }}" class="card-img-top" alt="{{ place.alt_text }}">
+                        </a>
+                        <div class="card-body d-flex flex-column">
+                            <div class="card-content flex-grow-1">
+                                <h5 class="card-title">{{ place.name | replace(query, '<b>' + query + '</b>') | safe }}</h5>
+                                <p class="card-location">{{ place.location | replace(query, '<b>' + query + '</b>') | safe }}</p>
+                                <p class="traveller-types">For: {{ place['target traveller'] | join(', ') | replace(query, '<b>' + query + '</b>') | safe }}</p>
+                            </div>
+                            <div class="rating-section mt-auto">
+                                <div class="rating-bar-container">
+                                    <div class="rating-bar-progress" data-rating="{{ place.rating }}"></div>
+                                </div>
+                                <p class="rating-text">Rating: {{ place.rating }}/10</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <p class="no-results">No matches found for "{{ query }}"</p>
+        {% endif %}
+    </div>
+</div>
+{% endblock %} 

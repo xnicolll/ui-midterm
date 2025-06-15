@@ -1,0 +1,322 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Angkor Wat",
+        "location": "Siem Reap, Cambodia",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/QAarkR2INIPzhl374yNhHA1aUow=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/a1/88/a188a6f4-143d-4df2-b955-f60e7872b307/gg7p00.jpg",
+        "alt_text": "This is an image of Angkor Wat.",
+        "rating": "9.2",
+        "summary": "Angkor Wat, Cambodia's iconic temple complex, is the world's largest religious monument and a UNESCO World Heritage site.",
+        "information": "Angkor Wat is located in Siem Reap, Cambodia, and is easily accessible by tuk-tuk, bike, or car. A one-day pass costs $37, while three-day and seven-day passes are $62 and $72.",
+        "average cost": "$37",
+        "target traveller": [
+            "spiritual",
+            "adventurous"
+        ],
+        "similar place ids": [
+            "2",
+            "3",
+            "45"
+        ]
+    },
+    "2": {
+        "id": "2",
+        "name": "Taj Mahal",
+        "location": "Agra, India",
+        "image": "https://skift.com/wp-content/uploads/2022/06/GettyImages-1208049833-scaled-e1654782377122.jpg",
+        "alt_text": "This is an image of Taj Mahal.",
+        "rating": "8.5",
+        "summary": "The Taj Mahal is an iconic symbol of love and one of the most recognized landmarks in the world, known for its stunning white marble architecture.",
+        "information": "Located in Agra, India, the Taj Mahal can be accessed by car, bus, or train. Entry costs around \u20b950 for Indian visitors and \u20b91,100 for foreign visitors. The monument is open from sunrise to sunset, and it is recommended to avoid weekends due to large crowds. Visitors can also enjoy the beautiful gardens and surroundings. Dress modestly and remove shoes when entering the mausoleum.",
+        "average cost": "\u20b950",
+        "target traveller": [
+            "romantic",
+            "historical"
+        ],
+        "similar place ids": [
+            "3",
+            "4",
+            "5"
+        ]
+    },
+    "3": {
+        "id": "3",
+        "name": "Manali",
+        "location": "Himachal Pradesh, India",
+        "image": "https://assets-news.housing.com/news/wp-content/uploads/2022/07/15031416/manali-feature-compressed.jpg",
+        "alt_text": "This is an image of Manali.",
+        "rating": "7.5",
+        "summary": "Manali is a popular hill station in the Indian Himalayas, offering breathtaking views, adventure activities, and a peaceful atmosphere.",
+        "information": "Manali is located in the Kullu Valley, Himachal Pradesh, and can be accessed by bus, car, or taxi. It is well-known for trekking, skiing, and paragliding. Entry is free, but adventure activities may cost extra. The best time to visit is between October and February for snow lovers or in the summer months for those seeking mild temperatures.",
+        "average cost": "\u20b91,500",
+        "target traveller": [
+            "adventurous",
+            "nature lovers"
+        ],
+        "similar place ids": [
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    "4": {
+        "id": "4",
+        "name": "Rishikesh",
+        "location": "Uttarakhand, India",
+        "image": "https://travelthruhistory.com/wp-content/uploads/2020/02/rishikesh-india.jpg",
+        "alt_text": "This is an image of Rishikesh.",
+        "rating": "6.0",
+        "summary": "Rishikesh is the yoga capital of the world, offering spiritual experiences, adventure activities, and breathtaking views along the Ganges River.",
+        "information": "Rishikesh is located in Uttarakhand and can be reached by bus, car, or taxi. It is known for its yoga and meditation centers. Visitors can also enjoy white-water rafting, trekking, and temples. The cost varies from \u20b9200 to \u20b9500 for entry fees, depending on the activities. Best visited from September to March.",
+        "average cost": "\u20b9500",
+        "target traveller": [
+            "spiritual",
+            "adventurous"
+        ],
+        "similar place ids": [
+            "3",
+            "5",
+            "6"
+        ]
+    },
+    "5": {
+        "id": "5",
+        "name": "Mussoorie",
+        "location": "Uttarakhand, India",
+        "image": "https://s3.india.com/wp-content/uploads/2024/04/Feature-Image_-Mussoorie-13.jpg",
+        "alt_text": "This is an image of Mussoorie.",
+        "rating": "7.5",
+        "summary": "Mussoorie is a scenic hill station in the Indian Himalayas, known for its pleasant weather, natural beauty, and colonial-era charm.",
+        "information": "Located in Uttarakhand, Mussoorie is easily accessible by car or bus. Visitors can enjoy the peaceful atmosphere, nature walks, and scenic viewpoints. Activities such as boating and trekking are popular. Entry to the town is free, though some attractions may charge for access.",
+        "average cost": "\u20b91,000",
+        "target traveller": [
+            "nature lovers",
+            "romantic"
+        ],
+        "similar place ids": [
+            "3",
+            "4",
+            "6"
+        ]
+    },
+    "6": {
+        "id": "6",
+        "name": "Ranthambore National Park",
+        "location": "Rajasthan, India",
+        "image": "https://good-nature-blog-uploads.s3.amazonaws.com/uploads/2021/12/Ranthambore-National-Park-India-1-1280x640.jpg",
+        "alt_text": "This is an image of Ranthambore National Park.",
+        "rating": "9.0",
+        "summary": "Ranthambore National Park is one of the largest and most renowned wildlife sanctuaries in India, famous for its Bengal tiger population.",
+        "information": "Ranthambore is located in Rajasthan and can be accessed by car or train. Safari tours are available for exploring the park and spotting wildlife, including tigers. Entry fees start at \u20b950, with safaris costing around \u20b91,500 to \u20b93,000. Best visited between October and April.",
+        "average cost": "\u20b91,500",
+        "target traveller": [
+            "adventurous",
+            "nature lovers"
+        ],
+        "similar place ids": [
+            "2",
+            "4",
+            "5"
+        ]
+    },
+    "7": {
+        "id": "7",
+        "name": "Mekong Delta",
+        "location": "Southern Vietnam",
+        "image": "https://www.royalhaskoningdhv.com/-/media/images/projects/water/wm_cr_project_mekong_delta1.jpg?h=1080&iar=0&w=1920&hash=99DF3FDB327E68D82182E708D3216893",
+        "alt_text": "This is an image of Mekong Delta.",
+        "rating": "9.0",
+        "summary": "The Mekong Delta is a vast network of rivers, swamps, and islands, known for its floating markets, lush landscapes, and vibrant local culture.",
+        "information": "Located in southern Vietnam, the Mekong Delta can be explored by boat, bike, or car. Visitors can take a river cruise, visit floating markets, or explore the traditional villages. Entry is free, though boat tours cost extra, with prices starting around $10. The best time to visit is from November to April.",
+        "average cost": "$10",
+        "target traveller": [
+            "cultural",
+            "adventurous"
+        ],
+        "similar place ids": [
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    "8": {
+        "id": "8",
+        "name": "Cu Chi Tunnels",
+        "location": "Ho Chi Minh City, Vietnam",
+        "image": "https://sawasdee.thaiairways.com/wp-content/uploads/2023/04/shutterstock_690459592.jpg",
+        "alt_text": "This is an image of Cu Chi Tunnels.",
+        "rating": "8.0",
+        "summary": "The Cu Chi Tunnels are a network of underground tunnels used during the Vietnam War, offering a glimpse into the wartime history of Vietnam.",
+        "information": "Located near Ho Chi Minh City, the Cu Chi Tunnels can be accessed by bus or taxi. The entry fee is around $5, with guided tours available. The tunnels are an insightful historical site, with a museum, exhibitions, and the opportunity to crawl through the tunnels. Best visited year-round.",
+        "average cost": "$5",
+        "target traveller": [
+            "historical",
+            "adventurous"
+        ],
+        "similar place ids": [
+            "7",
+            "9",
+            "11"
+        ]
+    },
+    "9": {
+        "id": "9",
+        "name": "Street Food in Ho Chi Minh",
+        "location": "Ho Chi Minh City, Vietnam",
+        "image": "https://saigonadventure.com/wp-content/uploads/2024/05/street-food-tour-in-ho-chi-minh-city-by-motorbike.jpeg",
+        "alt_text": "This is an image of Street Food in Ho Chi Minh.",
+        "rating": "8.5",
+        "summary": "Ho Chi Minh City is famous for its vibrant street food scene, offering a variety of delicious local dishes like pho, banh mi, and fresh spring rolls.",
+        "information": "Street food in Ho Chi Minh City can be found throughout the city, especially in markets and busy streets. Popular dishes include pho (noodle soup), banh mi (sandwich), and fresh spring rolls. Prices range from $1 to $5 for most dishes. Best experienced during the evening.",
+        "average cost": "$3",
+        "target traveller": [
+            "foodies",
+            "cultural"
+        ],
+        "similar place ids": [
+            "7",
+            "8",
+            "10"
+        ]
+    },
+    "10": {
+        "id": "10",
+        "name": "Hon Thom Cable Car",
+        "location": "Phu Quoc, Vietnam",
+        "image": "https://travelsense.asia/wp-content/uploads/2022/08/hon-thom-cable-car-1.jpg",
+        "alt_text": "This is an image of Hon Thom Cable Car.",
+        "rating": "8.0",
+        "summary": "The Hon Thom Cable Car offers a stunning panoramic view of the ocean and islands, providing a unique experience in Phu Quoc, Vietnam.",
+        "information": "The Hon Thom Cable Car is located in Phu Quoc and can be accessed by taxi or car. The cable car offers stunning views of the surrounding islands and ocean, with a round-trip ticket costing around $10. The best time to visit is between November and March.",
+        "average cost": "$10",
+        "target traveller": [
+            "scenic",
+            "adventurous"
+        ],
+        "similar place ids": [
+            "7",
+            "9",
+            "11"
+        ]
+    },
+    "11": {
+        "id": "11",
+        "name": "Hoi An",
+        "location": "Quang Nam, Vietnam",
+        "image": "https://image.vietnam.travel/sites/default/files/2021-12/shutterstock_1506184586_resize_0.jpg?v=1740471306",
+        "alt_text": "This is an image of Hoi An.",
+        "rating": "9.5",
+        "summary": "Hoi An is a UNESCO World Heritage Site known for its ancient town, lantern-lit streets, and vibrant cultural scene.",
+        "information": "Hoi An is located in central Vietnam and can be reached by bus or car from Da Nang. The town is known for its ancient architecture, traditional craft shops, and delicious food. Visitors can walk around the historic town for free, but guided tours are also available. The best time to visit is from February to April.",
+        "average cost": "$5",
+        "target traveller": [
+            "cultural",
+            "romantic"
+        ],
+        "similar place ids": [
+            "7",
+            "9",
+            "10"
+        ]
+    },
+    "12": {
+        "id": "12",
+        "name": "Cham Islands",
+        "location": "Quang Nam, Vietnam",
+        "image": "https://danangprivatecar.com/wp-content/uploads/2022/10/In-which-season-what-month-is-the-ideal-time-to-travel-to-Cu-Lao-Cham-.jpeg",
+        "alt_text": "This is an image of Cham Islands.",
+        "rating": "9.0",
+        "summary": "The Cham Islands are a group of islands off the coast of Hoi An, offering clear waters, beaches, and rich marine life.",
+        "information": "The Cham Islands can be accessed by boat from Hoi An. The islands offer opportunities for diving, snorkeling, and exploring the natural beauty of the area. Day trips can be arranged, and the cost typically ranges from $20 to $50. The best time to visit is from March to September.",
+        "average cost": "$20",
+        "target traveller": [
+            "adventurous",
+            "nature lovers"
+        ],
+        "similar place ids": [
+            "7",
+            "11",
+            "13"
+        ]
+    },
+    "13": {
+        "id": "13",
+        "name": "Hanoi",
+        "location": "Vietnam",
+        "image": "https://static.independent.co.uk/2023/04/06/08/iStock-1182782799.jpg",
+        "alt_text": "This is an image of Hanoi.",
+        "rating": "8.0",
+        "summary": "Hanoi, the capital of Vietnam, is known for its blend of colonial architecture, traditional culture, and vibrant street life.",
+        "information": "Hanoi can be explored on foot or by taxi. Key attractions include the Old Quarter, Hoan Kiem Lake, and the Ho Chi Minh Mausoleum. Entry fees for major attractions range from $2 to $5. Hanoi is a great place to explore street food, markets, and historical sites.",
+        "average cost": "$3",
+        "target traveller": [
+            "cultural",
+            "historical"
+        ],
+        "similar place ids": [
+            "7",
+            "9",
+            "10"
+        ]
+    },
+    "14": {
+        "id": "14",
+        "name": "Ha Long Bay",
+        "location": "Quang Ninh, Vietnam",
+        "image": "https://www.indochina-junk.com/wp-content/uploads/2023/08/Ha-Long-Bay-1.jpg",
+        "alt_text": "This is an image of Ha Long Bay.",
+        "rating": "9.5",
+        "summary": "Ha Long Bay is a UNESCO World Heritage Site, famous for its emerald waters and thousands of limestone islands topped with rainforests.",
+        "information": "Ha Long Bay can be accessed by boat from Hai Phong or Hanoi. Visitors can take cruises or explore the islands on kayaks. The cost for a day cruise is around $20 to $50. The best time to visit is from October to April.",
+        "average cost": "$20",
+        "target traveller": [
+            "scenic",
+            "adventurous"
+        ],
+        "similar place ids": [
+            "7",
+            "11",
+            "12"
+        ]
+    },
+    "15": {
+        "id": "15",
+        "name": "Great Wall of China",
+        "location": "China",
+        "image": "https://i.natgeofe.com/n/20e923d3-042c-4045-942a-52308add6a75/great-wall-unesco-china.jpg",
+        "alt_text": "This is an image of Great Wall of China.",
+        "rating": "9.5",
+        "summary": "The Great Wall of China is one of the most iconic landmarks in the world, stretching over 13,000 miles and showcasing ancient Chinese engineering and history.",
+        "information": "Popular sections like Badaling and Mutianyu are easily accessible from Beijing. Entry fees range from \u00a540 to \u00a560 depending on the section. Spring and autumn are the best times to visit due to mild weather and fewer crowds.",
+        "average cost": "\u00a550",
+        "target traveller": [
+            "adventurous",
+            "historical"
+        ],
+        "similar place ids": [
+            "1",
+            "2",
+            "6"
+        ]
+    },
+    "16": {
+        "id": "16",
+        "name": "Bukchon Hanok Village",
+        "location": "Seoul, South Korea",
+        "image": "https://www.simplyangella.com/wp-content/uploads/2019/12/bukchon-hanok-village-gahoe-dong-seoul-hanbok.jpg",
+        "alt_text": "This is an image of Bukchon Hanok Village.",
+        "rating": "8",
+        "summary": "Bukchon Hanok Village is a historic neighborhood in Seoul featuring well-preserved hanok houses and offering a glimpse into Korea\u2019s cultural heritage.",
+        "information": "Located in the heart of Seoul, the village is easily accessible by subway. Entry is free, but some hanok houses charge a small fee for tours. Visitors can explore the narrow alleys, rent traditional hanbok attire, and enjoy cultural experiences!",
+        "average cost": "Free",
+        "target traveller": [
+            "spiritual",
+            "cultural"
+        ],
+        "similar place ids": [
+            "1",
+            "2",
+            "15"
+        ]
+    }
+}
